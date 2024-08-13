@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **working in the IT industry while studying web development.**
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript.**
+- 🌱 I’m currently learning **REACT.**
 
 - 👯 I’m looking for communities **to enhance my web development skills.**
 
