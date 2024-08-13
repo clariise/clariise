@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Clarisse </h1>
 <h3 align="left">An aspiring Junior Full Stack Developer in PH</h3>
 
-- 🔭 I’m currently working in **working in the IT industry while studying web development.**
+- 🔭 I’m currently **working in the IT industry while studying web development.**
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript.**
 
